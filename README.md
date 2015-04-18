@@ -2,6 +2,11 @@
 
 Los teléfonos móviles actuales son demasiado complicados para ser utilizados por algunas personas mayores. Senior OS es un **sistema operativo móvil basado en Firefox OS accesible para nuestros mayores**. Senior OS puede ser gestionado íntegramente por un tercero de forma remota, e integra utilidades como conocer la localización de la persona o un sistema de alertas y recordatorios.
 
+## Equipo
+
+* **Cristian**: Ingeniero en informática y experto en Firefox OS, HTML5 y dispositivos móviles.
+* **Guido**: Licenciado en investigación de mercados e ingeniero de telecomunicación, experto en cloud computing y desarrollo backend ([@palmerabollo](http://twitter.com/palmerabollo)).
+
 ## Arquitectura
 
 * **Sistema operativo móvil**: basado en Firefox OS pero simplificado con el doble fin de alargar la vida de la batería y simplificar su uso (eliminando toda posibilidad de configuración).
