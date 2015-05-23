@@ -1,6 +1,6 @@
 # Documentación Senior OS
 
-Los teléfonos móviles actuales son demasiado complicados para ser utilizados por algunas personas mayores. Senior OS es un **sistema operativo móvil basado en Firefox OS accesible para nuestros mayores**. Senior OS puede ser gestionado íntegramente por un tercero de forma remota, e integra utilidades como conocer la localización de la persona o un sistema de alertas y recordatorios.
+Los teléfonos móviles actuales son demasiado complicados para ser utilizados por algunas personas mayores. Senior OS es un **sistema operativo móvil basado en Firefox OS accesible para nuestros mayores**. Senior OS puede ser gestionado íntegramente por un tercero de forma remota, e integra utilidades como conocer la localización de la persona o un sistema de alertas y recordatorios. No te quedes sin el tuyo en [telefoneo.com](http://www.telefoneo.com).
 
 ## Equipo
 
@@ -30,3 +30,4 @@ La solución está desarrollada utilizando software libre.
 * [Presentación HackForGood 2015](http://slides.com/guidogarcia/senior-os-hackforgood)
 * [Video promocional HackForGood 2015](https://vimeo.com/125320155) (50 seg)
 * [Video demo HackForGood 2015](https://vimeo.com/125320156) (2 min)
+* [Sitio web del proyecto](http://www.telefoneo.com)
